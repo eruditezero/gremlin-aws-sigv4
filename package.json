@@ -1,5 +1,5 @@
 {
-  "name": "gremlin-aws-sigv4",
+  "name": "@eruditezero/gremlin-aws-sigv4",
   "version": "3.7.1",
   "main": "index.js",
   "types": "index.d.ts",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/shutterstock/gremlin-aws-sigv4/"
+    "url": "git+https://github.com/eruditezero/gremlin-aws-sigv4.git"
   },
   "keywords": [
     "aws",
