@@ -1,5 +1,5 @@
 {
-  "name": "@eruditezero/gremlin-aws-sigv4",
+  "name": "gremlin-aws-sigv4-ts",
   "version": "3.7.1",
   "main": "index.js",
   "types": "index.d.ts",
